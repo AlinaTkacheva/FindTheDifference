@@ -10,7 +10,8 @@ FindTheDifferences.apk - Android приложение - игра по поиск
 Тест-кейсы - TestCases.pdf,
 Баг-репорты - BugReports.pdf.
 
-Скриншоты приложения для наглядности:
+Скриншоты приложения для наглядности (AppScreenshots):
+
 ![Экран главного меню](https://github.com/AlinaTkacheva/FindTheDifference/blob/main/AppScreenshots/ScreenShot_1.jpeg)
 ![Экран уровня](https://github.com/AlinaTkacheva/FindTheDifference/blob/main/AppScreenshots/ScreenShot_2.jpeg)
 ![Экран о прохождении уровня](https://github.com/AlinaTkacheva/FindTheDifference/blob/main/AppScreenshots/ScreenShot_3.jpeg)
