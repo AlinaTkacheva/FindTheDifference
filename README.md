@@ -6,8 +6,8 @@ FindTheDifferences.apk - Android приложение - игра по поиск
 А также составить чек-лист для прохождения регресса и оформить несколько тест-кейсов из него.
 
 Результат выполнения задания:
-Чек-лист - CheckList.pdf
-Тест-кейсы - TestCases.pdf
-Баг-репорты - BugReports.pdf
+Чек-лист - CheckList.pdf,
+Тест-кейсы - TestCases.pdf,
+Баг-репорты - BugReports.pdf.
 
 
